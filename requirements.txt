@@ -1,6 +1,6 @@
-numpy
-pandas
+numpy==1.24.3
+pandas==2.0.2
 streamlit
 pickle
-scikit-learn
-pip
+scikit-learn==1.2.2
+pip==23.0.1
